@@ -14,7 +14,7 @@
 - 📸 Experience in working with Super Resolution models, Generative AI, and Residual networks
 - 🔭 Interested in working on Deep learing projects. 
 - 🌱 I’m currently learning deep learning 
-- 👯 Collabiorations are welcomed! 
+- 👯 Collaborations are welcomed! 
 - 💬 Artificial Intelligence
 - ⚡ Fun fact: I was born in a jeep!
 
