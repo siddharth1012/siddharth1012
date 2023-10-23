@@ -10,7 +10,6 @@
 
 <br>
 
-
 - 🧑‍💻 Worked as Software Engineer Intern @ Microsoft 
 - 📸 Experience in working with Super Resolution models, Generative AI, and Residual networks
 - 🔭 Interested in working on Deep learing projects. 
@@ -26,8 +25,11 @@
 - Deep Learning
 - SQL
 
+### Getting Started 📈
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=siddharth1012)
+
+### Demo Project Repo ⬇️
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth1012&repo=FaceApp)
 
