@@ -19,6 +19,5 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=siddharth1012)
 
-Have a look at one of my projects!
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth1012&repo=FaceApp)
 
