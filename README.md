@@ -7,3 +7,6 @@
 - 📫 reach me on linkedin: https://www.linkedin.com/in/siddharthsaraswat1
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was born in a jeep!
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=siddharth1012)
