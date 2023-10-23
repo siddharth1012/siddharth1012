@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Interested in working Deep learing projects. 
+- 🔭 Interested in working on Deep learing projects. 
 - 🌱 I’m currently learning deep learning 
 - 👯 Collabiorations are welcomed! 
 - 💬 Artificial Intelligence
