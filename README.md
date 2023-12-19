@@ -25,11 +25,8 @@
 - Deep Learning
 - SQL
 
-### Getting Started 📈
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=siddharth1012)
 
 ### Live Project Repo ⬇️
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth1012&repo=FaceApp)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth1012&repo=Image-Search-Engine)
+
