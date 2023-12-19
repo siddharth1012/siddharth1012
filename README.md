@@ -33,11 +33,11 @@
 #### Top Repositories
 
 
-<a href="https://github.com/siddharth1012/Image-Search-Enginer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddharth1012&repo=Image-Search-Enginer" />
+<a href="https://github.com/siddharth1012/Image-Search-Engine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddharth1012&repo=Image-Search-Engine" />
 </a>
 <a href="https://github.com/siddharth1012/Similar-Image-Recommnedation-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddharth1012&repo=Similar-Image-Recommendatin-System&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddharth1012&repo=Similar-Image-Recommendation-System&theme=buefy" />
 </a>
 
 <br />
