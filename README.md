@@ -25,20 +25,17 @@
 - Deep Learning
 - SQL
 
-
-### Live Project Repo ⬇️
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth1012&repo=FaceApp)
-
 #### Top Repositories
 
 
 <a href="https://github.com/siddharth1012/Image-Search-Engine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddharth1012&repo=Image-Search-Engine" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddharth1012&repo=Image-Search-Engine&theme=buefy" />
 </a>
 <a href="https://github.com/siddharth1012/Similar-Image-Recommnedation-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddharth1012&repo=Similar-Image-Recommendation-System&theme=buefy" />
 </a>
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth1012&repo=FaceApp)
 
 <br />
 <br />
