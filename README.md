@@ -10,10 +10,10 @@
 
 <br>
 
-- 🧑‍💻 Worked as Software Engineer Intern @ Microsoft 
-- 📸 Experience in working with Super Resolution models, Generative AI, and Residual networks
-- 🔭 Interested in working on Deep learing projects. 
-- 🌱 I’m currently learning more about various models of machine learning, deep learning, and exploring new horizons
+- 🧑‍💻 Worked as Software Engineer Intern @ Microsoft, Co-founded an electric car startup Vaiyan Motors. 
+- 📸 Experience in working with Super Resolution models, Generative AI, and Residual networks, Word2Vec, TensorFlow, Model Architecture, Image Processing
+- 🔭 Interested in working on Deep learing projects involving complex datasets and large scale applications. 
+- 🌱 I’m currently learning about of machine learning, deep learning, and real-world applications of this field.
 - 👯 Want to work together? Ping me!
 - 💬 Artificial Intelligence
 - ⚡ Fun fact: I was born in a jeep!
@@ -24,6 +24,13 @@
 - Python
 - Deep Learning
 - SQL
+
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
 
 ### Getting Started 📈
 
