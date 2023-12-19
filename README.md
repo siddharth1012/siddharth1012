@@ -33,10 +33,10 @@
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/siddharth1012/Image-Search-Enginer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddharth1012&repo=Image-Search-Enginer" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/siddharth1012/Similar-Image-Recommnedation-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddharth1012&repo=Similar-Image-Recommendatin-System&theme=buefy" />
 </a>
 
