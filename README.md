@@ -29,6 +29,7 @@
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth1012&repo=FaceApp)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth1012&repo=Image-Search-Engine)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth1012&repo=Similar-Image-Recommendation-System)
 
 
 <br />
