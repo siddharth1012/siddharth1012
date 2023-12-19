@@ -30,3 +30,5 @@
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth1012&repo=FaceApp)
 
+###Blogs
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@siddharthsaraswat1/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@siddharthsaraswat1/0" alt="Recent Article 0"> 
