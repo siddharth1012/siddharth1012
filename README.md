@@ -16,7 +16,6 @@
 - 🌱 I’m currently learning about the intricacies of machine learning, deep learning, and real-world applications of this field.
 - 👯 Want to work together? Ping me!
 - 💬 Artificial Intelligence
-- ⚡ Fun fact: I was born in a jeep!
 
 ### Skills 📄
 
@@ -24,5 +23,8 @@
 - Python
 - Deep Learning
 - SQL
+- Kotlin
+- Android
+- TensorFlow
 
 
