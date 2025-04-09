@@ -10,15 +10,21 @@
 
 <br>
 
-- 🧑‍💻 Worked as Software Engineer Intern @ Microsoft, Co-founded an electric car startup Vaiyan Motors. 
-- 📸 Experience in working with Super Resolution models, Generative AI, and Residual networks, Word2Vec, TensorFlow, Model Architecture, Image Processing
+- 🧑‍💻 Currently working as a Software Engineer for one of the Big4, Previously worked as Software Engineer Intern @ Microsoft, Co-founded an electric car startup Vaiyan Motors. 
+- 📸 Experience in working with Backend and Frontend technologies, Super Resolution models, Generative AI, and Residual networks, Word2Vec, TensorFlow, Model Architecture, Image Processing
 - 🔭 Interested in working on Deep learing projects involving complex datasets and large scale applications. 
-- 🌱 I’m currently learning about the intricacies of machine learning, deep learning, and real-world applications of this field.
+- 🌱 I’m currently learning about the intricacies of Large scale applications, machine learning, deep learning, and real-world applications of this field.
 - 👯 Want to work together? Ping me!
-- 💬 Artificial Intelligence
+- 💬 Artificial Intelligence, Full-stack applications
 
 ### Skills 📄
 
+- Django
+- FastAPI
+- GenAI
+- GraphQL
+- React
+- PowerBI
 - C++
 - Python
 - Deep Learning
