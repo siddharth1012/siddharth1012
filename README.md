@@ -10,7 +10,7 @@
 
 <br>
 
-- 🧑‍💻 Currently working as a Software Engineer for one of the Big4, Previously worked as Software Engineer Intern @ Microsoft, Co-founded an electric car startup Vaiyan Motors. 
+- 🧑‍💻 A Software Engineer with demonstrated history of working as a Software Engineer - 1 at Deloitte USI. Previously worked as Software Engineer Intern at Deloitte and Microsoft, Co-founded an electric car startup Vaiyan Motors. 
 - 📸 Experience in working with Backend and Frontend technologies, Super Resolution models, Generative AI, and Residual networks, Word2Vec, TensorFlow, Model Architecture, Image Processing
 - 🔭 Interested in working on Deep learing projects involving complex datasets and large scale applications. 
 - 🌱 I’m currently learning about the intricacies of Large scale applications, machine learning, deep learning, and real-world applications of this field.
